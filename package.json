@@ -1,0 +1,22 @@
+{
+  "name": "backgroundgenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"browserify script.js > bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriaandv281/backgroundgenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriaandv281/backgroundgenerator/issues"
+  },
+  "homepage": "https://github.com/adriaandv281/backgroundgenerator#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
